@@ -1,5 +1,9 @@
 fastapi
 sqlalchemy
+psycopg2
 numpy
 pandas
 keras
+git+https://github.com/tech1919/fastapi-rank.git
+git+https://github.com/tech1919/fastapi-events.git
+git+https://github.com/tech1919/fastapi-auth-cognito.git
